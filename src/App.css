@@ -16,3 +16,18 @@
 .navBar{
   background-color: gold;
 }
+.customGrid {
+  margin-top: 20px;
+}
+
+.customBox {
+  background-color: maroon;
+  width: 88%;
+  margin-left: 5%;
+  height: 700px;
+}
+.campus{
+  height: 102%;
+  width: 102%;
+  object-fit: fill;
+}
